@@ -42,15 +42,14 @@ BookCopies: Tracks the physical copies of books available in the library, includ
 
 The system provides a variety of queries that can be executed to retrieve useful information from the database. Some examples include:
 
-Retrieve a list of available books.
-Count the number of books currently borrowed.
-Find the author of a specific book.
-Determine the number of books borrowed by a member.
-Retrieve the due date for a book.
-Find books published in a specific year.
-List members who have borrowed books.
-Calculate the average publication year of books in the library.
-Get the top authors with the most books published.
+* Retrieve a list of available books.
+* Count the number of books currently borrowed.
+* Find the author of a specific book.
+* Determine the number of books borrowed by a member.
+* Retrieve the due date for a book.
+* Find books published in a specific year.
+* List members who have borrowed books.
+* Calculate the average publication year of books in the library.
 ----------------------------------------------------
 ----------------------------------------------------
 -----------------------------------------------------
