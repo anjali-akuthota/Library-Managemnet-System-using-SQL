@@ -50,9 +50,7 @@ The system provides a variety of queries that can be executed to retrieve useful
 * Find books published in a specific year.
 * List members who have borrowed books.
 * Calculate the average publication year of books in the library.
-----------------------------------------------------
-----------------------------------------------------
------------------------------------------------------
+------ and so on ....
 
 # Contributing
 Contributions to this library management system project are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request or open an issue to discuss them.
